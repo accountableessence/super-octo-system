@@ -1,0 +1,25 @@
+body
+{background-color: blanchedalmond;}
+h1
+{ display: block;
+    margin-left: 3em;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 3em;
+}
+img
+{margin-right:3cm;}
+a{margin-right: 2%;}
+
+
+.btn
+{text-decoration: none;
+padding: 0.5rem;
+border: 1px solid #333333;
+vertical-align: middle;
+float: right;}
+p{float: left;}
+
+
+
+p{margin-left: 3cm;}
